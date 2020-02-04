@@ -40,12 +40,18 @@ body {
     font-family: 'Raleway', sans-serif;
     width: 100%;
     font-size: 1em;
+    color: rgb(85, 78, 78);
 }
 
 .highlight {
-    color: maroon;
+    color: rgb(151, 14, 14);
 }
-
+.git-logo {
+    color: #413932;
+}
+a {
+    color: #f54d27;
+}
 @media screen and (min-width: 760px) {
     .greeting {
         font-size: 1.5em;
